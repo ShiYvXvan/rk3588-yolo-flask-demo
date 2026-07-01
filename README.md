@@ -124,7 +124,7 @@ rknn-toolkit2工具链只支持python环境，也就是模型转换只能依赖L
 ![替代文本](pictures/屏幕截图_2026-05-16_140524.png )
 
 此处一定要使用虚拟环境！
-若不使用python则必须在命令行手动创建虚拟环境
+若不使用pycharm则必须在命令行手动创建虚拟环境
 
     python -m venv .venv
     或
